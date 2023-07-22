@@ -1,4 +1,9 @@
-### Hi there 👋
+Gold512
+
+Languages:
+
+- Python
+- HTML, CSS, Javascript
 
 <!--
 **Gold512/Gold512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
