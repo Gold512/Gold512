@@ -1,5 +1,7 @@
 Gold512
 
+Email: pear32768@gmail.com
+
 Languages:
 
 - Python
